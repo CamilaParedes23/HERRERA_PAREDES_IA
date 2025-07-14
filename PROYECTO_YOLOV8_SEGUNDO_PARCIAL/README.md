@@ -1,6 +1,6 @@
 # 🎯 Proyecto de Detección de Objetos con YOLOv8
 ## Segundo Parcial - Inteligencia Artificial
-### 👥 Estudiantes: Herrera & Paredes
+### 👥 Estudiantes: Herrera Anahy & Paredes Camila
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green.svg)](https://github.com/ultralytics/ultralytics)
@@ -167,12 +167,10 @@ python src/detect.py --webcam
 - **PyTorch**: [https://pytorch.org/](https://pytorch.org/)
 
 ### 👥 Autores
-**Herrera & Paredes**  
+**Herrera Anahy & Paredes Camila**  
 *Estudiantes de Inteligencia Artificial*  
-*Universidad - 6to Semestre*
+*Universidad de las Fuerzas Armadas "ESPE" - 6to Semestre*
 
-### 📧 Contacto
-Para preguntas sobre el proyecto o colaboraciones, contactar a los autores.
 
 ---
 
